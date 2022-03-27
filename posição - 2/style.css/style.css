@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: lightgray;
+}
+
+#div1 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#div2 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  right: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+#div3 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  left: 0x;
+  position: absolute;
+  bottom: 0px;
+}
+
+#div4 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  bottom: 0;
+  right: 0px;
+}

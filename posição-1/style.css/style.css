@@ -1,0 +1,44 @@
+#divblue {
+  background-color: blue;
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+
+#divred {
+  background-color: red;
+  height: 400px;
+  width: 400px;
+  position: relative;
+  top: 50px;
+  left: 10%;
+}
+
+#divblack {
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  position: relative;
+  top: 14%;
+  left: 12%;
+}
+
+#divgreen {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  top: 16%;
+  left: 16%;
+}
+
+#divyellow {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  top: 25%;
+  left: 25%;
+}
